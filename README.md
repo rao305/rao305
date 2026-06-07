@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I’m Rohit — a computer science student at Purdue University concentrating in AI/ML Systems and computer vision for autonomous systems. I’m currently a full-stack developer with Purdue’s Data Mine, building analytics tools for the Indiana Soybean Alliance, and I’m also working on SqairInch, a virtual try‑on Shopify plugin that uses zone heatmaps and VTON‑based 3D models for intelligent apparel recommendations. I’m based in Mountain View in the Bay Area, actively looking for a full-time Summer 2026 software/ML internship, and I’m especially interested in AI safety and world‑model‑driven research; feel free to reach me at rohitrao1205@gmail.com.<br><br>
+Hey, I’m Rohit and I'm interested in building AI Autonomy Infrastructure. I'm currently working with SupplyHouse as an AI Enablement Intern! 
 
 
 ## 🌐 Socials:
